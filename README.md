@@ -44,8 +44,8 @@ This project is a **location-based smart navigation system** developed to enable
 
 1.  **Clone the Project:**
     ```bash
-    git clone https://github.com/Sefahmet/LBS_project.git
-    cd LBS_project
+    git clone https://github.com/Sefahmet/Gozum.git
+    cd Gozum
     ```
 
 2.  **Load Dependencies and Build the Project:**
